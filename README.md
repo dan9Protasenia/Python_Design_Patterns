@@ -1,5 +1,21 @@
 # Python Design Patterns
 
+Условные обозначения
+
+
+# Виды паттернов
+
+ ![изображение](https://github.com/dan9Protasenia/Python_Design_Patterns/assets/100715839/245cb5a4-0ad9-4381-93fd-8427accf28e7)  - поведенческие (behavioral);
+
+ ![изображение](https://github.com/dan9Protasenia/Python_Design_Patterns/assets/100715839/cf4c1342-d93b-46a9-813c-f01934793731) - порождающие (creational);
+
+ ![изображение](https://github.com/dan9Protasenia/Python_Design_Patterns/assets/100715839/d1dcaf69-9d03-4c53-b81f-9678c93d6af5) - структурные (structural).
+
+
+# Список шаблонов
+![изображение](https://github.com/dan9Protasenia/Python_Design_Patterns/assets/100715839/96248f6e-b106-40b3-bd93-bd474c820720)
+
+# Содержание
  - [Pattern Builder](#pattern-builder-строитель-на-python)
  - [Factory Method](#factory-method-фабричный-метод-в-python)
  - [Prototype in Python](#prototype-in-python-прототип-в-python)
